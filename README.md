@@ -75,8 +75,8 @@ my-coffee-id/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter_application_1.git
-   cd flutter_application_1
+   git clone https://github.com/Tarak-Nath-Dey/my-coffee-id
+   cd my-coffee-id
    ```
 
 2. Install dependencies:
