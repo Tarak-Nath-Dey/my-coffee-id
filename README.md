@@ -44,7 +44,7 @@ Deep charcoal, neon amber accents, and sleek dark surfaces. Designed for late-ni
 ## Project Structure
 
 ```
-flutter_application_1/
+my-coffee-id/
 ├── lib/
 │   ├── main.dart               # App entry point, ThemeMode state + toggle
 │   ├── home.dart               # Scaffold, AppBar, section layout
